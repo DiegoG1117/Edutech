@@ -232,3 +232,9 @@ Received Import Request.
   path: Assets/Resources
   artifactKey: Guid(3535c999fba16d9438c05ad55806d913) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Resources using Guid(3535c999fba16d9438c05ad55806d913) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3770548138c6422958dfdab4b5c78d25') in 0.007082 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 402.056239 seconds.
+  path: Assets/Animations
+  artifactKey: Guid(6e1db66348d3249d6b7886e670be76e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations using Guid(6e1db66348d3249d6b7886e670be76e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b52b82752685e5ecfa07df826a6b66e') in 0.003151 seconds 
